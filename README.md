@@ -1,5 +1,7 @@
 # Blog-by-python3.6-django2.0
 ### 使用django2.0+python搭建的个人博客
+效果图
+http://tangwenpeng.cn/
 # 使用方法
 
 1，git clone https://github.com/tangwenpeng/Blog-by-python3.6-django2.0.git
